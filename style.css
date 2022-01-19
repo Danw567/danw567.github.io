@@ -139,6 +139,7 @@ nav #nav-logo {
     background-color: rgb(255, 255, 255, 0.6);
     backdrop-filter: blur(5px);
     animation: fadeIn .3s ease-in;
+    z-index: 100000;
 }
 
 @keyframes fadeIn {
@@ -240,6 +241,9 @@ nav #nav-logo {
         text-align: center;
     }
 }
+
+
+/*SECTION 1***************************/
 
 
 /*SECTION 1***************************/
